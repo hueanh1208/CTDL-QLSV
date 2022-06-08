@@ -1,0 +1,21 @@
+5
+THCS1
+Tin Hoc Co So 1
+2
+1
+CTDL
+Cau Truc Du Lieu
+3
+1
+KTNA
+Ky Thuat Nhiep Anh
+2
+1
+TCC
+Toan Cao Cap
+1
+2
+THCS2
+Tin Hoc Co So 2
+2
+2
